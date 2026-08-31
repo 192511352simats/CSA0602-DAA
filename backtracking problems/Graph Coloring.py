@@ -39,6 +39,10 @@ if graph_coloring(graph, m, color, 0, n):
 else:
     print("Coloring is not possible")
 #output
-Enter number of elements: 5
-Enter elements: 10 7 5 18 12
-Enter target sum: 22
+Enter number of vertices: 4
+Enter adjacency matrix:
+0 1 1 1
+1 0 1 0
+1 1 0 1
+1 0 1 0
+Enter number of colors: 3

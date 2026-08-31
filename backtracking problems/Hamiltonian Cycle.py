@@ -41,3 +41,12 @@ if hamiltonian(graph, path, 1):
     print(*[x + 1 for x in path], path[0] + 1)
 else:
     print("No Hamiltonian Cycle exists")
+
+#output
+Enter number of vertices: 5
+Enter adjacency matrix:
+0 1 1 0 1
+1 0 1 1 1
+1 1 0 1 0
+0 1 1 0 1
+1 1 0 1 0

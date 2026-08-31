@@ -11,3 +11,9 @@ arr = list(map(int, input("Enter elements: ").split()))
 target = int(input("Enter target sum: "))
 print("Subsets with sum", target, ":")
 subset_sum(arr, target, 0, [])
+#output
+Enter number of elements: 5
+Enter elements: 10 7 5 18 12
+Enter target sum: 30
+Subsets with sum 30 :
+[10, 7, 5, 8]

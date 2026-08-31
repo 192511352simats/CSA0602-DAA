@@ -38,3 +38,7 @@ if graph_coloring(graph, m, color, 0, n):
         print("Vertex", i + 1, "-> Color", color[i])
 else:
     print("Coloring is not possible")
+#output
+Enter number of elements: 5
+Enter elements: 10 7 5 18 12
+Enter target sum: 22

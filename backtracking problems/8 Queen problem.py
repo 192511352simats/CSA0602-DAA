@@ -45,3 +45,14 @@ if solve(board, 0):
         print()
 else:
     print("No solution exists")
+#output
+Solution:
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
